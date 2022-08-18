@@ -1,3 +1,4 @@
 [submodule "pasta_submodulo"]
 	path = pasta_submodulo
 	url = git@github.com:fabriciogmc/submodulo.git
+	branch = main
